@@ -7,6 +7,3 @@ initialexample-initialexample created by GitHub Classroom
 public function StellenSieSichVor{
   let sieWürdenAufDeutsch = "programmieren, lol";
  }
- 
- # lmao imagine writing code in German:
- ![alt text](https://pasteboard.co/XNU79gfYxltn.png)
